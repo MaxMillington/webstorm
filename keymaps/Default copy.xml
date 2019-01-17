@@ -5,6 +5,7 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta subtract" />
